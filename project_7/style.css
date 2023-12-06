@@ -1,0 +1,54 @@
+/* CSS file for styling the centered square card */
+body {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.center-container {
+    text-align: center;
+    background-color: #c4b7b7;
+}
+
+.card {
+    width: 200px;
+    height: 325px;
+    border: 2px solid #333;
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px;
+    display: inline-block;
+}
+
+.profile-pic {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+.name {
+    margin: 10px 0;
+    color: #333;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.social-icon {
+    text-decoration: none;
+    color: #333;
+    width: 30px;
+    height: 30px;
+}
+.about {
+    margin-top: 10;
+    color: #000000;
+    text-align: center;
+    font-size: 16px;
+}
