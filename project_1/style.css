@@ -19,8 +19,8 @@
 .top_section {
     margin-top: 100px;
     display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
+    justify-content: center;
+    align-items: center;
 }
 
 .top_section h1 {
