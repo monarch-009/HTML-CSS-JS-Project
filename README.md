@@ -1,2 +1,2 @@
-# Basic_HTML-CSS_Project
-Learning HTML and CSS by implementing them practical on the small-small Project .
+# Basic_HTM-CSS & Javascript Project
+Learning HTML, CSS and JavaScript by implementing them practical on the small-small Project .
